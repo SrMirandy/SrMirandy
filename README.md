@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Miranda
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Sergipe. Atualmente, estou cursando Ciências da Computação na UNIT. Sou entusiasta por tecnologia e compartilho meu conhecimento através do meu perfil no Instagram "[Pedromirandy](https://www.instagram.com/pedromirandy/)", onde ensino a criar projetos web.
 
