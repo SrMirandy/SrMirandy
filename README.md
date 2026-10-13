@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Sergipe. Atualmente, estou cursando Ciências da Computação na UNIT. Sou entusiasta por tecnologia e compartilho meu conhecimento através do meu perfil no Instagram "[Pedromirandy](https://www.instagram.com/pedromirandy/)", onde ensino a criar projetos web.
+Me chamo Pedro Henrique do Nascimento Miranda, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Ciências da Computação na UNIT. Sou entusiasta por tecnologia e compartilho meu conhecimento através do meu perfil no Instagram "[Pedromirandy](https://www.instagram.com/pedromirandy/)".
 
 <p align="left">
     <a href="https://www.instagram.com/pedromirandy">
@@ -10,13 +10,6 @@ Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Se
             alt="Instagram followers" 
             title="Seguir" 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SrMirandy?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SrMirandy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/SrMirandy?tab=followers">
@@ -50,6 +43,22 @@ Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Se
 />
 <img 
     align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -66,6 +75,22 @@ Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Se
 />
 <img 
     align="left" 
+    alt="CMake"
+    title="CMake" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swift"
+    title="Swift" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap" 
     title="Bootstrap"
     width="30px" 
@@ -79,14 +104,6 @@ Me chamo Pedro Henrique do Nascimento Miranda, tenho 20 anos e sou natural de Se
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SrMirandy&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
